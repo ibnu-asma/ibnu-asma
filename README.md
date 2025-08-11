@@ -8,7 +8,7 @@
 
 - 🔭 Currently working as **Senior Backend Developer** at **NEO AI**
 - 🛡️ Web Application Tester at **INSA**
-- 🎓 **A2SV Alumni** - Completed 8 months of intensive Data Structures & Algorithms training
+- 🎓 **A2SVian** - Completed 8 months of intensive Data Structures & Algorithms training
 - 🏆 **Fyda Hackathon Finalist** (August 2025) with **eMedId** project
 - 🌱 Passionate about building scalable enterprise applications
 - 💼 3+ years of experience in backend development
