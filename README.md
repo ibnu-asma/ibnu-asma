@@ -1,7 +1,7 @@
 # Hi there, I'm Abdulhamid Hayredin! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Senior+Backend+Developer;Laravel+%7C+.NET+%7C+Django;Building+Scalable+Solutions;A2SV+Alumni;AI/ML Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Senior+Backend+Developer;Laravel+%7C+.NET+%7C+Django;Building+Scalable+Solutions;A2SV+Alumni;AI/ML+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
